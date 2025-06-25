@@ -1,6 +1,6 @@
-# Intro to Python and ML Libraries
+# Sandbox for Preprocessing techniques in Python
 
-Quick review of fundamental concepts for Python libraries for ML.
+Quick playground for proprocessing techniques using Python libraries for ML.
 
 ## Steps
 
@@ -19,7 +19,7 @@ source .venv/bin/activate
 
 Install the `requirements.txt` for the example:
 ``` bash
-pip install -r requirements.txt
+pip install -r intro-python-for-ml/requirements.txt
 ```
 
 ### 1. Jupyter notebook

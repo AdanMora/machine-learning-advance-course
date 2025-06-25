@@ -1,6 +1,6 @@
-# Intro to Python and ML Libraries
+# Classic Machine Learning Models in Python
 
-Quick review of fundamental concepts for Python libraries for ML.
+Quick playground for Classic Machine Learning Models using Python libraries for ML.
 
 ## Steps
 
