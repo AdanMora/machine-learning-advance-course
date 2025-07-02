@@ -19,7 +19,7 @@ source .venv/bin/activate
 
 Install the `requirements.txt` for the example:
 ``` bash
-pip install -r intro-python-for-ml/requirements.txt
+pip install -r requirements.txt
 ```
 
 ### 1. Jupyter notebook
